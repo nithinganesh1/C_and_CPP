@@ -4,7 +4,7 @@ I use Linux for developing and running C programs because it is easy, free, and 
 I use the GNU Compiler Collection (GCC) to compile C programs.
 To compile a C program with GCC, use the following command:
 
-*gcc -o executable_file.out source_file.c*
+*gcc -o executable_file.out source_file.c* \n
 This will create an executable file named executable_file.out from the source code in the file source_file.c.
 
 To execute the compiled program
