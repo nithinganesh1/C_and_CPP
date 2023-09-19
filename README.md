@@ -1,4 +1,4 @@
-C is a general-purpose programming language used to develop a wide variety of software applications, including operating systems, embedded systems, and graphical user interfaces.
+*C is a general-purpose programming language used to develop a wide variety of software applications, including operating systems, embedded systems, and graphical user interfaces.*
 
 I use Linux for developing and running C programs because it is easy, free, and open-source.
 
