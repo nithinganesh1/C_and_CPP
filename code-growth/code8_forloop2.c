@@ -17,4 +17,5 @@ int main(void) {
 				}
 			printf("sum of 1 to %d = %d",num,sum);
 		}
+	return 0;
 }
